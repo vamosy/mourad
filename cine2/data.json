@@ -1,0 +1,30 @@
+ {
+  "data" : [
+  {
+  "html" : "https://vamosy.github.io/cine/1.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660343438/cine/1_qbxzgi.jpg",
+  "name" : "TIPS 1"
+  },
+  {
+  "html" : "https://vamosy.github.io/cine/2.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660343423/cine/2_t95gg6.jpg",
+  "name" : "TIPS 2"
+  },
+  {
+  "html" : "https://vamosy.github.io/cine/3.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660343417/cine/3_hcp1lj.jpg",
+  "name" : "TIPS 3"
+  },
+  {
+  "html" : "https://vamosy.github.io/cine/4.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660343428/cine/4_dhrp7l.jpg",
+  "name" : "TIPS 4"
+  },
+  {
+  "html" : "https://vamosy.github.io/cine/5.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660343424/cine/5_bbi0sh.jpg",
+  "name" : "TIPS 5"
+  }
+    
+    ]
+  }
